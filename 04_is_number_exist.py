@@ -10,3 +10,4 @@ def is_number_exist(number, array):
 
 result = is_number_exist(3, input)
 print(result)
+#커밋 수정
